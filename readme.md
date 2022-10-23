@@ -18,6 +18,7 @@ Our project comprises of Five Features:
 ![image](https://raw.githubusercontent.com/cyrixninja/CourierHacks/main/screenshots/3.png)
 
 3.AI Advice: Ever stuck  or  unable to make a decision? I have been in that situation a lot of times. Well then need a quick reply? We got you. Our AI Advice service is powered by Courier's API and Cohere's NLP API. Enter your query  and email  address and our service will give you a quick response in your inbox. I guarantee it won't disappoint you😁.Here's one advice I got from AI Advice feature:
+![image](https://raw.githubusercontent.com/cyrixninja/CourierHacks/main/screenshots/9.png)
 ![image](https://raw.githubusercontent.com/cyrixninja/CourierHacks/main/screenshots/5.png)
 
 4:Anonymous Advice:  Aren't satisfied with our AI's Advice? Then you can try taking advice from fellow students and get your problem or query  resolved. It will be anonymous and you don't need to sign up for an account to use it. Whenever someone replies, you'll get an email from us about their reply.
