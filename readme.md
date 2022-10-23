@@ -12,10 +12,12 @@ Our project comprises of Five Features:
 
 1.Daily News Notification: It provides you daily news notification about your desired topic. Just type your email and you'll get daily news notification about your topic. It will help you to keep yourself with current academic news or the thing you're learning about currently.
 ![image](https://raw.githubusercontent.com/cyrixninja/CourierHacks/main/screenshots/4.png)
+![image](https://raw.githubusercontent.com/cyrixninja/CourierHacks/main/screenshots/11.png)
 
 2.Connect with People: It's a page where you can meet with fellow students and people around you. Just type in your information and we'll let you know if anyone wants to  connect with you in your inbox.
 ![image](https://raw.githubusercontent.com/cyrixninja/CourierHacks/main/screenshots/2.png)
 ![image](https://raw.githubusercontent.com/cyrixninja/CourierHacks/main/screenshots/3.png)
+![image](https://raw.githubusercontent.com/cyrixninja/CourierHacks/main/screenshots/12.png)
 
 3.AI Advice: Ever stuck  or  unable to make a decision? I have been in that situation a lot of times. Well then need a quick reply? We got you. Our AI Advice service is powered by Courier's API and Cohere's NLP API. Enter your query  and email  address and our service will give you a quick response in your inbox. I guarantee it won't disappoint you😁.Here's one advice I got from AI Advice feature:
 ![image](https://raw.githubusercontent.com/cyrixninja/CourierHacks/main/screenshots/9.png)
@@ -23,10 +25,12 @@ Our project comprises of Five Features:
 
 4:Anonymous Advice:  Aren't satisfied with our AI's Advice? Then you can try taking advice from fellow students and get your problem or query  resolved. It will be anonymous and you don't need to sign up for an account to use it. Whenever someone replies, you'll get an email from us about their reply.
 ![image](https://raw.githubusercontent.com/cyrixninja/CourierHacks/main/screenshots/6.png)
+![image](https://raw.githubusercontent.com/cyrixninja/CourierHacks/main/screenshots/12.png)
 
 5.Donate Books: We all have some books that we don't use after quite a while. Well then you can always donate them to people who really need it. Just type your  email and add some information about the book you wanna donate. Whenever anyone wants  your books we'll contact you  with their information in your inbox
 ![image](https://raw.githubusercontent.com/cyrixninja/CourierHacks/main/screenshots/7.png)
 ![image](https://raw.githubusercontent.com/cyrixninja/CourierHacks/main/screenshots/8.png)
+![image](https://raw.githubusercontent.com/cyrixninja/CourierHacks/main/screenshots/10.png)
 
 # How we built it❓
 We built it using Courier's API ,Firebase ,Replit ,Flask and Python. We used Courier's API for our platform's email notifications, Firebase for storing the data online, Replit for developing our app and hosting our Backend and Flask as our Backend. It was a fun experience building it.
