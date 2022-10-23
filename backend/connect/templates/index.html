@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Connect</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Latest compiled and minified CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Latest compiled JavaScript -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js"></script> 
+  </head>
+  <body>
+    {% block body %}
+    <div class=" d-flex justify-content-center vh-100 align-items-center">
+      <div class="card mb-3" style="width: 60rem;">
+        <div class="row g-0">
+          <div class="col-md-4">
+            <img src="https://raw.githubusercontent.com/cyrixninja/CourierHacks/main/img/connect.png" class="img-fluid rounded-start" alt="...">
+          </div>
+          <div class="col-md-8">
+            <div class="card-body">
+              <h2 class="card-title">Connect with people</h2>
+              <p class="card-text">Connect with fellow students here. Enter your details in below form.When someone wants to connect with you we'll contact you</p>
+	<form class="" action="/" method="post">
+    <div class="mb-3">
+      <label for="name" class="form-label">Name</label>
+      <input type="name" class="form-control" id="name"  name="name">
+    </div>
+    <div class="mb-3">
+      <label for="email" class="form-label">Your Email Address</label>
+      <input type="email" class="form-control" id="email"  name="email">
+    </div>
+    <div class="mb-3">
+      <label for="about" class="form-label">About</label> 
+      <input type="text" class="form-control" id="about" name="about">
+    </div>
+    <div class="mb-3">
+      <label for="social" class="form-label">Social Link</label>
+      <input type="text" class="form-control" id="social" name="social">
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+  </form>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+     
+
+  {% endblock %}
+  </body>
+</html>

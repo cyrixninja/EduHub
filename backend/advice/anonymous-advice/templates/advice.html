@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Books Available</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Latest compiled and minified CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Latest compiled JavaScript -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js"></script> 
+  </head>
+  <body>
+    {% block body %}
+    <br><br><br><br>
+
+    <div class="container flex-row">
+      <div class="card-group">
+            {% for value in data %}
+           
+            <form class="" action="/advice" method="post">
+            <div class="card" style="width: 18rem;">
+              <div class="card-body">
+                <h5 class="card-title"> Username: {{ data[value]['username'] }} </h5>
+                <br>
+                <p class="card-text"> Question: {{ data[value]['question'] }}</p>
+                <br>
+                <div class="mb-3">
+                  <label for="reply" class="form-label">Your Reply</label>
+                  <input type="text" class="reply" id="reply" name="reply">
+                </div>
+                <br>
+                <button type="submit" class="btn btn-primary" >Send</button>
+              
+              <input method="post" type="hidden" name="username" value="{{ data[value]['username'] }}" action="/advice"/>
+              <input method="post" type="hidden" name="question" value="{{ data[value]['question'] }}" action="/advice"/>
+              <input method="post" type="hidden" name="email" value="{{ data[value]['email'] }}" action="/advice"/>
+              </div>
+            </div>
+          </form>
+
+            <br><br>
+         
+            {%  endfor %}
+
+        </div> 
+        </div>
+         
+         
+    
+      {% endblock %}
+  </body>
+  </html>

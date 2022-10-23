@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>News</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Latest compiled and minified CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Latest compiled JavaScript -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js"></script> 
+  </head>
+  <body>
+    {% block body %}
+    <div class=" d-flex justify-content-center vh-100 align-items-center">
+      <div class="card mb-3" style="width: 60rem;">
+        <div class="row g-0">
+          <div class="col-md-4">
+            <img src="https://raw.githubusercontent.com/cyrixninja/CourierHacks/main/img/advice.png" class="img-fluid rounded-start" alt="...">
+          </div>
+          <div class="col-md-8">
+            <div class="card-body">
+              <h2 class="card-title">AI Advice</h2>
+              <p class="card-text">Post your questions here and we'll email you AI generated advice</p>
+	<form class="" action="/" method="post">
+    <div class="mb-3">
+      <label for="Email1" class="form-label">Email address</label>
+      <input type="email" class="form-control" id="Email1"  name="email">
+    </div>
+    <div class="mb-3">
+      <label for="Query1" class="form-label">Query</label>
+      <input type="text" class="form-control" id="Query1" name="query">
+    </div>
+    <button type="submit" class="btn btn-primary">Send</button>
+  </form>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+  {% endblock %}
+  </body>
+</html>
