@@ -1,7 +1,7 @@
 # EduHub
 Our project for Courier Hacks is EduHub. EduHub is a platform for all your educational needs built using Python ,Flask ,Courier's API and Cohere's API.
-
-![image](https://raw.githubusercontent.com/cyrixninja/CourierHacks/main/screenshots/1.png)
+<h3>You can visit our documentation <a href="https://github.com/cyrixninja/CourierHacks/blob/main/documentation.md">here</a></h3>
+<img src="https://raw.githubusercontent.com/cyrixninja/CourierHacks/main/screenshots/1.png">
 
 # Inspiration💡
 Whenever we sign up on educational platforms we always need to sign up to use anything.No feature is usable without signing up. That's a huge concern for us these days. We really care about privacy and protecting our credentials. So we decided to make a  platform for all your educational needs that doesn't require a sign up or anything. We have added a lot of features to EduHub. Also we sometimes felt a need for a news notification service that's completely open-source and provides you with daily news notifications about your desired topic. We always thought that it would make our lives easier as students as we can get news notifications about anything we are learning or want to learn about. Like when I was trying to learn about astrophysics I felt a need for an email service that would give me the latest news about astrophysics or anything I want to learn about .   
