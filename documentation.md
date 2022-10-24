@@ -1,18 +1,18 @@
 # API,Frameworks and Plaforms used in development
 
-Courier API - https://www.courier.com/docs/guides/getting-started/python/
+<a href="https://www.courier.com/docs/guides/getting-started/python/">Courier API</a>
 
-Python Flask - https://flask.palletsprojects.com/en/2.2.x/
+<a href="https://flask.palletsprojects.com/en/2.2.x/">Python Flask </a>
 
-FireBase Realtime Database - https://firebase.google.com/docs/database
+<a href="https://firebase.google.com/docs/database">FireBase Realtime Database</a>
 
-Cohere's NLP API - https://docs.cohere.ai/
+<a href="https://docs.cohere.ai/">Cohere's NLP API</a>
 
-Replit - https://replit.com/
+<a href="https://replit.com/">Replit </a>
 
-Visual Studio Code- https://code.visualstudio.com/
+<a href="https://code.visualstudio.com/">Visual Studio Code</a>
  
-Github- https://github.com/
+ <a href="https://github.com/">Github</a>
 
 # What we used API's and Framworks for 
 
