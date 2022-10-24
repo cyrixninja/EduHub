@@ -1,4 +1,4 @@
-# CourierHacks
+# EduHub
 Our project for Courier Hacks is EduHub. EduHub is a platform for all your educational needs built using Python ,Flask ,Courier's API and Cohere's API.
 
 ![image](https://raw.githubusercontent.com/cyrixninja/CourierHacks/main/screenshots/1.png)
