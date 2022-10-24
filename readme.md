@@ -8,9 +8,10 @@ Whenever we sign up on educational platforms we always need to sign up to use an
 
 # What does it do❓
 
-Our project comprises of Five Features:
+<h1>Our project comprises of Five Features:</h1>
 
-1.Daily News Notification: It provides you daily news notification about your desired topic. Just type your email and you'll get daily news notification about your topic. It will help you to keep yourself with current academic news or the thing you're learning about currently.
+<h3> 1.Daily News Notification: It provides you daily news notification about your desired topic. Just type your email and you'll get daily news notification about your topic. It will help you to keep yourself with current academic news or the thing you're learning about currently.<h3>
+![image](https://raw.githubusercontent.com/cyrixninja/CourierHacks/main/flowcharts/Daily%20News%20Notification.png)
 
 2.Connect with People: It's a page where you can meet with fellow students and people around you. Just type in your information and we'll let you know if anyone wants to  connect with you in your inbox.
 
@@ -21,6 +22,8 @@ Our project comprises of Five Features:
 
 
 5.Donate Books: We all have some books that we don't use after quite a while. Well then you can always donate them to people who really need it. Just type your  email and add some information about the book you wanna donate. Whenever anyone wants  your books we'll contact you  with their information in your inbox
+
+
 
 
 # How we built it❓
