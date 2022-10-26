@@ -144,7 +144,11 @@ def index():
 
 ```
 # Usage
+<h3>You can run each backend file by going into thier directory and using</h3>
 
+```
+flask run
+```
 <h3>You can host the backend anywhere you like and paste the url in iframe as follows in thier respective HTML</h3>
 <img src="https://raw.githubusercontent.com/cyrixninja/CourierHacks/main/screenshots/screenshot1.png" alt="image">
 <br>
