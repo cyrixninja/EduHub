@@ -17,10 +17,10 @@ Whenever we sign up on educational platforms we always need to sign up to use an
 <img src="https://raw.githubusercontent.com/cyrixninja/CourierHacks/main/flowcharts/Connect.png" width="750">
 <br>
 <h3>3.AI Advice: Ever stuck  or  unable to make a decision? I have been in that situation a lot of times. Well then need a quick reply? We got you. Our AI Advice service is powered by Courier's API and Cohere's NLP API. Enter your query  and email  address and our service will give you a quick response in your inbox. I guarantee it won't disappoint you😁</h3>
-<img src="https://raw.githubusercontent.com/cyrixninja/CourierHacks/main/flowcharts/AIAdvice.png" width="750">
+<img src="https://raw.githubusercontent.com/cyrixninja/CourierHacks/main/flowcharts/autoadvice.png" width="750">
 <br>
 <h3>4:Anonymous Advice:  Aren't satisfied with our AI's Advice? Then you can try taking advice from fellow students and get your problem or query  resolved. It will be anonymous and you don't need to sign up for an account to use it. Whenever someone replies, you'll get an email from us about their reply.</h3>
-<img src="https://raw.githubusercontent.com/cyrixninja/CourierHacks/main/flowcharts/AnonymousAdvice.png" width="750">
+<img src="https://raw.githubusercontent.com/cyrixninja/CourierHacks/main/flowcharts/anonadvice.png" width="750">
 <br>
 <h3>5.Donate Books: We all have some books that we don't use after quite a while. Well then you can always donate them to people who really need it. Just type your  email and add some information about the book you wanna donate. Whenever anyone wants  your books we'll contact you  with their information in your inbox</h3>
 <img src="https://raw.githubusercontent.com/cyrixninja/CourierHacks/main/flowcharts/Donate.png" width="750">
