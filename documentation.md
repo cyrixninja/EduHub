@@ -26,22 +26,27 @@ Cohere's NLP API- We used to generate responses in our AI Advice Feature.
 
 Github Pages- We used it to host our website
 
-# How does our webapp work?
+# Example Code for futher development
 <h3>Our Backend is hosted seperately and is embedded in our website</h3>
 
 <h2>Python Example Code for Storing Data into Firebase in Flask Webapp</h2>
 
 ```
+#importing libraries
 import re
 from click import prompt
 from flask import Flask, render_template, request
 import requests
 import firebase_admin
 from firebase_admin import db
+
+#connecting with realtime database
 cred_obj = firebase_admin.credentials.Certificate(" ")
 default_app = firebase_admin.initialize_app(cred_obj, {
 	'databaseURL':" "
 	})
+	
+#initializing flask app
  app = Flask(__name__)
  @app.route('/', methods=["GET", "POST"])
 def index():
@@ -50,10 +55,12 @@ def index():
     databasetxt= (ref.get())
 
     if request.method == 'POST':
+        #fetching data from the html webapp
         name = request.form['name']
         about = request.form['about']
         email = request.form['email']
         social = request.form['social']
+	#feeding the data into the database
         ref = db.reference("/")
         userno = "user"+str(len(ref.get())+1)
         txt= {
@@ -77,20 +84,22 @@ def index():
 <h2>Python Example Code for sending email to user using Courier in Flask Webapp</h2>
 
 ```
-
+#importing libraries
 from flask import Flask, render_template, request
 import requests
 url = "https://api.courier.com/send"
 app = Flask(__name__)
 
+#initializing flask app
 @app.route('/', methods=["GET", "POST"])
 def index():
   if request.method == 'POST':
+        #fetching data from the html webapp
         username = request.form['username']
         question = request.form['question']
         email = request.form['email']
         reply = request.form['reply']
-        ref = db.reference("/")
+	#sending mail using courier api
         payload = {
             "message": {
                 "to": { 
