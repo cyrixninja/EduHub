@@ -143,3 +143,12 @@ def index():
 
 ```
 # Usage
+
+You can host the backend anywhere you like and paste the url in iframe as follows in thier respective HTML
+<img src="" alt="image">
+
+You should also add the respective API Keys in the backend 
+<img src="" alt="image">
+
+
+
