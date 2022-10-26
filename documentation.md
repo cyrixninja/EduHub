@@ -1,6 +1,6 @@
-# Note from developers
-This is a open source project.Feel Free to Fork it or Make Pull Requests to this project.We would love it if anyone wants to contribute to this project and want to help in creating a perfect student platform.You can contact us on- cyrixninja#0157 or ninnza#2681 if you got any doubts regarding implementing any new feauture in this project.You should host each app individually and add the thier iframe in  thier respective html page.We used replit for hosting,you can use any services you like.If you  face any difficulty in testing or in usage,you can contact us for files with api our api keys.You can also use node js,go or any languauge
-
+# Message from developers
+This is a open source project.Feel Free to Fork it or Make Pull Requests to this project.We would love it if anyone wants to contribute to this project and want to help in creating a perfect student platform.You can contact us on- cyrixninja#0157 or ninnza#2681 if you got any doubts regarding implementing any new feauture in this project.You should host each app individually and add the thier iframe in  thier respective html page.We used replit for hosting,you can use any services you like.If you  face any difficulty in testing or in usage,you can contact us for files with api our api keys.You can also use node js,go or any programming language.Since the main page is static and features are embedded in the main page you can use always add a page with a hosted backend in any programming language and it would flawlessly.
+We can't wait to see how this platform turns out in future.Thanks for showing your interest in our project.😁
 
 # API,Frameworks and Plaforms used in development
 
