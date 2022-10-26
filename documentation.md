@@ -1,5 +1,6 @@
-# Feel Free to Fork it or Make Pull Requests to this project.We would love it if anyone wants to contribute to this project and want to help in creating a perfect student platform
-You can contact us on- cyrixninja#0157 or ninnza#2681 if you got any doubts regarding implementing any new feauture in this project
+# Note from developers
+This is a open source project.Feel Free to Fork it or Make Pull Requests to this project.We would love it if anyone wants to contribute to this project and want to help in creating a perfect student platform.You can contact us on- cyrixninja#0157 or ninnza#2681 if you got any doubts regarding implementing any new feauture in this project.You should host each app individually and add the thier iframe in  thier respective html page.We used replit for hosting,you can use any services you like.If you  face any difficulty in testing or in usage,you can contact us for files with api our api keys.You can also use node js,go or any languauge
+
 
 # API,Frameworks and Plaforms used in development
 
@@ -157,7 +158,6 @@ def index():
 <br>
 <h3>You should also add database url and firebase json here</h3>
 <img src="https://raw.githubusercontent.com/cyrixninja/CourierHacks/main/screenshots/screenshot4.png" alt="image">
-<h3>You can learn how to use firebase in pythonand generate json here <a href="https://www.freecodecamp.org/news/how-to-get-started-with-firebase-using-python/">here</a> </h3>
+<h3>You can learn how to use firebase in python and generate json here <a href="https://www.freecodecamp.org/news/how-to-get-started-with-firebase-using-python/">here</a> </h3>
 <br>
-<h3>You should host each app individually and add the thier iframe in  thier respective html page.We used replit for hosting,you can use any services you like.If you  face any difficulty in testing or in usage,you can contact us for files with api our api keys</h3>
 
