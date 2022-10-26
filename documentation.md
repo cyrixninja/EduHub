@@ -144,11 +144,20 @@ def index():
 ```
 # Usage
 
-You can host the backend anywhere you like and paste the url in iframe as follows in thier respective HTML
-<img src="" alt="image">
-
-You should also add the respective API Keys in the backend 
-<img src="" alt="image">
-
-
+<h3>You can host the backend anywhere you like and paste the url in iframe as follows in thier respective HTML</h3>
+<img src="https://raw.githubusercontent.com/cyrixninja/CourierHacks/main/screenshots/screenshot1.png" alt="image">
+<br>
+<h3>You should also add the respective API Keys in the backend </h3>
+<br>
+<h3>For Cohere in AI Advice</h3>
+<img src="https://raw.githubusercontent.com/cyrixninja/CourierHacks/main/screenshots/screenshot2.png" alt="image">
+<br>
+<h3>You should add api key in every app.py found in backend.You can add it here</h3>
+<img src="https://raw.githubusercontent.com/cyrixninja/CourierHacks/main/screenshots/screenshot3.png" alt="image">
+<br>
+<h3>You should also add database url and firebase json here</h3>
+<img src="https://raw.githubusercontent.com/cyrixninja/CourierHacks/main/screenshots/screenshot4.png" alt="image">
+<h3>You can learn how to use firebase in pythonand generate json here <a href="https://www.freecodecamp.org/news/how-to-get-started-with-firebase-using-python/">here</a> </h3>
+<br>
+<h3>You should host each app individually and add the thier iframe in  thier respective html page.We used replit for hosting,you can use any services you like.If you  face any difficulty in testing or in usage,you can contact us for files with api our api keys</h3>
 
