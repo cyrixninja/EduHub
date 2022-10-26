@@ -1,3 +1,6 @@
+# Feel Free to Fork it or Make Pull Requests to this project.We would love it if anyone wants to contribute to this project and want to help in creating a perfect student platform
+You can contact us on- cyrixninja#0157 or ninnza#2681 if you got any doubts regarding implementing any new feauture in this project
+
 # API,Frameworks and Plaforms used in development
 
 <a href="https://www.courier.com/docs/guides/getting-started/python/">Courier API</a>
@@ -139,6 +142,4 @@ def index():
     return render_template('index.html', **locals(), data=databasetxt)
 
 ```
-
-# Feel Free to Fork it or Make Pull Requests to this project.We would love it if anyone wants to contribute to this project and want to help in creating a perfect student platform
-You can contact us on- cyrixninja#0157 or ninnza#2681 if you got any doubts in implementing any feauture in this project
+# Usage
